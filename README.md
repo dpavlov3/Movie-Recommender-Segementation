@@ -20,15 +20,12 @@ MovieLens 10M Dataset - reviews were cut down to a third due to limitations of A
 
 
 Notebook Overview: 
-Part 1 - Content Based Recommender - Exploration and Cleaning
-Part 2 - Content Based Recommender - Recommender
-Part 3 - Content Based Recommender - EDA
-Rating Exploration
-CPA Segmentation
-t-SNE Visualization
-Part 4 - Collaborative Based Recommender - Cleaning Data 
-Part 5 - Collaborative Based Recommender - Item
-Part 6 - Collaborative Based Recommender - Users
+- Part 1 - Content Based Recommender - Exploration and Cleaning
+- Part 2 - Content Based Recommender - Recommender
+- Part 3 - Content Based Recommender - EDA
+- Part 4 - Collaborative Based Recommender - Cleaning Data 
+- Part 5 - Collaborative Based Recommender - Item
+- Part 6 - Collaborative Based Recommender - Users
 
 
 
