@@ -6,6 +6,8 @@ Data Source:
 MovieLens 20M Dataset - movie features
 MovieLens 10M Dataset - reviews were cut down to a third due to limitations of AWS 
 
+Data files: ml-20m and data are not included in the document. ml-20m file is a direct download from https://grouplens.org/datasets/movielens/ website and the data file is created to created to keep file for transfer between notebooks.
+
 ### name.basics.csv – Contains the following information for names:
 
 |Feature|Type|Description|
