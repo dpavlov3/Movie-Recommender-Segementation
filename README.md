@@ -1,9 +1,9 @@
 ### Executive Summary: 
-MovieLens datasets were used in order to build out a content based recommender and collaborative based movie recommenders. Id addtion to recommenders I focused exploratory data analysis in order to get a better understanding into genres, user ratings, movie complexity, and how these features change over time. Finally, principal component analysis was used to take a deeper dive to segment genres, decades, and genomes and was able to explain 50% of all features variabilities into eight distinct categories.
+MovieLens datasets were used in order to build out a content-based recommender and collaborative based movie recommenders. In addition to recommenders, I focused my exploratory data analysis in order to get a better understanding of genres, user ratings, movie complexity, and how these features change over time. Finally, principal component analysis was used to take a deeper dive to segment genres, decades, and genomes and was able to explain 50% of all features variabilities into eight distinct categories.
 
 
 ### Data Collection: 
-Data was gathered from [MovieLens](https://grouplens.org/datasets/movielens/), 10M and 20M dataset was used for feature based recommender and collaborative based recommenders. The data for collaborative based recommender was decreased to 3.1M review due to limitation of the computing power, selecting users who's user_id number was evenly divisible 3 in order to get the best sample of population.
+Data was gathered from [MovieLens](https://grouplens.org/datasets/movielens/), 10M and 20M datasets were used for feature-based recommender and collaborative based recommenders. The data for collaborative based recommender was decreased to 3.1M review due to the limitation of the computing power, selecting users with user_id number was evenly divisible 3 in order to get the best sample of the population.
 
 Full data description can be found [here](http://files.grouplens.org/datasets/movielens/ml-20m-README.html).
 
